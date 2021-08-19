@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">..</string>
+    <string name="Pizza">Pizza</string>
+    <string name="Hamburger">Hamburger</string>
+    <string name="Chicken">Chicken</string>
+    <string name="fahrenheit">"fahrenheit "</string>
+    <string name="Celsius">Celsius</string>
+    <string name="Fahrenheit" />
+</resources>
